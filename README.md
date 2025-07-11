@@ -6,8 +6,7 @@ Bem-vindo(a) ao meu perfil
    <a href="https://github.com/Gabbr1">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1l&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1l&layout=compact&langs_count=6&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1l&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1l&layout=compact&langs_count=6&theme=dark"/>
+
 
 </div>
  <br>
@@ -17,7 +16,6 @@ Bem-vindo(a) ao meu perfil
   <a href="https://github.com/Gabbr1l">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=Gabbr1&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
 </a>
