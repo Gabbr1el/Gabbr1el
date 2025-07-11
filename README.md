@@ -11,15 +11,15 @@ Bem-vindo(a) ao meu perfil!!!
 </div>
  
  <div>
-   <a href="https://github.com/Gabbr1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1l&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1l&layout=compact&langs_count=6&theme=dark"/>
+   <a href="https://github.com/Gabbr1el">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1el&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1el&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
  <br>
  
 <p align="center">
-  <a href="https://github.com/Gabbr1l">
+  <a href="https://github.com/Gabbr1el">
     <img
       align="center"
     />
@@ -27,7 +27,7 @@ Bem-vindo(a) ao meu perfil!!!
 </a>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabbr1/Gabbr1l/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabbr1/Gabbr1l/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gabbr1el/Gabbr1el/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gabbr1el/Gabbr1el/blob/output/github-contribution-grid-snake.svg" />
   
 </picture>
