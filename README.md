@@ -66,7 +66,7 @@ Acredito que o desenvolvimento de software vai além de escrever código - trata
 - 💼 LinkedIn: [Felipe Gabriel Silva Rocha](https://www.linkedin.com/in/felipesilv/)
 - 📧 Email: felipegabrielsr03@gmail.com
 - 📱 WhatsApp: [Clique aqui](https://api.whatsapp.com/send?phone=5575999591008)
-- 🌐 Localização: Feira de Santana - BA, Brasil
+- 🌐 Localização: Feira de Santana - BA, Brasil / Santo Antônio de Jesus - BA, Brasil
 
 ---
 
