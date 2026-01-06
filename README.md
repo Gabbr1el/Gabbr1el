@@ -33,6 +33,11 @@ Desenvolvedor Back-End em formação e estudante de Análise de Sistemas, apaixo
 
 ## 🎯 Projetos em Destaque
 
+### 📚 [Project-Based Learning (PBL)](https://github.com/Gabbr1el/Project-Based-Learning-PBL-)
+Projeto acadêmico focado em aprendizagem baseada em projetos, aplicando conceitos de programação em Python.
+- **Tecnologias:** Python
+- **Status:** Concluído
+
 ### 🎮 [Roguelike Game](https://github.com/Gabbr1el/Roglike-Game)
 Jogo roguelike desenvolvido em Python utilizando Pygame Zero para avaliação acadêmica. Inclui mecânicas de gameplay procedural e sistema de combate.
 - **Tecnologias:** Python, Pygame Zero, Scratch
@@ -41,28 +46,14 @@ Jogo roguelike desenvolvido em Python utilizando Pygame Zero para avaliação ac
 ### 💣 [MineField](https://github.com/Gabbr1el/MineField)
 Implementação do clássico jogo Campo Minado em Python, desenvolvendo lógica de programação e algoritmos.
 - **Tecnologias:** Python
-- **Status:** Em desenvolvimento
-
-### 📚 [Project-Based Learning (PBL)](https://github.com/Gabbr1el/Project-Based-Learning-PBL-)
-Projeto acadêmico focado em aprendizagem baseada em projetos, aplicando conceitos de programação em Python.
-- **Tecnologias:** Python
-- **Status:** Em andamento
-
-## 📋 Experiência
-
-**Linguagens Principais:**
-- 🔵 Python - Desenvolvimento back-end e jogos
-- 🟪 HTML - Estruturação web
-
-**Projetos Desenvolvidos:** 4 repositórios públicos + 2 privados
+- **Status:** Concluído
 
 ## 🎓 Objetivos de Aprendizado 2026
 
 - [ ] Aprofundar conhecimentos em frameworks back-end (Django/Flask)
-- [ ] Aprender sobre bancos de dados relacionais e NoSQL
-- [ ] Dominar APIs REST e GraphQL
-- [ ] Contribuir para projetos open source
-- [ ] Desenvolver projetos full-stack completos
+- [ ] Aprender sobre bancos de dados relacionais
+- [ ] Dominar APIs REST
+- [ ] Desenvolver projetos Back-End completos
 
 ## 💡 Filosofia de Desenvolvimento
 
@@ -83,6 +74,6 @@ Acredito que o desenvolvimento de software vai além de escrever código - trata
   
 **⭐ Se você gostou de algum dos meus projetos, considere dar uma estrela!**
 
-*Desenvolvedor em constante evolução desde 2024* 🚀
+*Desenvolvedor em constante evolução* 🚀
 
 </div>
