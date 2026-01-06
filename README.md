@@ -33,12 +33,14 @@ Desenvolvedor Back-End em formação e estudante de Análise de Sistemas, apaixo
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1el&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1el&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+  <a href="https://github.com/Gabbr1el">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1el&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1el&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=pt-br"/>
+  </a>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbr1el&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak"/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gabbr1el&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Projetos em Destaque
