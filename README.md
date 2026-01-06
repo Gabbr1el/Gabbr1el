@@ -34,11 +34,10 @@ Desenvolvedor Back-End em formação e estudante de Análise de Sistemas, apaixo
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabbr1el&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1el&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1el&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1el&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabbr1el&theme=tokyonight&hide_border=true&locale=pt-br)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbr1el&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak"/>
 
 </div>
 
@@ -58,11 +57,6 @@ Implementação do clássico jogo Campo Minado em Python, desenvolvendo lógica 
 Projeto acadêmico focado em aprendizagem baseada em projetos, aplicando conceitos de programação em Python.
 - **Tecnologias:** Python
 - **Status:** Em andamento
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🎓 Objetivos de Aprendizado 2026
 
