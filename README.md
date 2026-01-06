@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipegabrielsr03@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5575999591008)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Gabbr1el&color=blueviolet&style=flat-square)
+
 </div>
 
 ## 🚀 Sobre Mim
@@ -13,10 +15,11 @@
 Desenvolvedor Back-End em formação e estudante de Análise de Sistemas, apaixonado por tecnologia e sempre em busca de desafios que promovam aprendizado e crescimento. Baseado em Feira de Santana - BA, Brasil.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Focado em desenvolvimento Back-End
+- 💻 Focado em desenvolvimento Back-End com Python
 - 🎮 Interesse em desenvolvimento de jogos e aplicações interativas
 - 🌱 Constantemente aprendendo novas tecnologias e boas práticas
 - 🔍 Buscando oportunidades para crescer como desenvolvedor
+- 📈 56 contribuições desde novembro de 2024
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -28,19 +31,6 @@ Desenvolvedor Back-End em formação e estudante de Análise de Sistemas, apaixo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-00A400?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Gabbr1el">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabbr1el&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbr1el&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=pt-br"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gabbr1el&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Projetos em Destaque
@@ -59,6 +49,14 @@ Implementação do clássico jogo Campo Minado em Python, desenvolvendo lógica 
 Projeto acadêmico focado em aprendizagem baseada em projetos, aplicando conceitos de programação em Python.
 - **Tecnologias:** Python
 - **Status:** Em andamento
+
+## 📋 Experiência
+
+**Linguagens Principais:**
+- 🔵 Python - Desenvolvimento back-end e jogos
+- 🟪 HTML - Estruturação web
+
+**Projetos Desenvolvidos:** 4 repositórios públicos + 2 privados
 
 ## 🎓 Objetivos de Aprendizado 2026
 
@@ -85,8 +83,8 @@ Acredito que o desenvolvimento de software vai além de escrever código - trata
 
 <div align="center">
   
-### ⭐ Se você gostou de algum dos meus projetos, considere dar uma estrela!
+**⭐ Se você gostou de algum dos meus projetos, considere dar uma estrela!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Gabbr1el&color=blueviolet&style=for-the-badge)
+*Desenvolvedor em constante evolução desde 2024* 🚀
 
 </div>
