@@ -11,14 +11,13 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Back-End em formação e estudante de Análise de Sistemas, apaixonado por tecnologia e sempre em busca de desafios que promovam aprendizado e crescimento. Baseado em Feira de Santana - BA, Brasil.
+Desenvolvedor Back-End em formação e estudante de Análise de Sistemas (IFBA-SAJ), apaixonado por tecnologia e sempre em busca de desafios que promovam aprendizado e crescimento. Nascido em Feira de Santana - BA, Brasil.
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Focado em desenvolvimento Back-End com Python
 - 👨‍💻 Interesse em desenvolvimento de aplicações interativas
 - 🌱 Constantemente aprendendo novas tecnologias e boas práticas
 - 🔍 Buscando qualquer oportunidade para crescer como desenvolvedor
-- 📈 56 contribuições desde novembro de 2024
 
 ## 🛠️ Tecnologias & Ferramentas
 
