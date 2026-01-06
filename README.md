@@ -40,7 +40,7 @@ Projeto acadêmico focado em aprendizagem baseada em projetos, aplicando conceit
 
 ### 🎮 [Roguelike Game](https://github.com/Gabbr1el/Roglike-Game)
 Jogo roguelike desenvolvido em Python utilizando Pygame Zero para avaliação acadêmica. Inclui mecânicas de gameplay procedural e sistema de combate.
-- **Tecnologias:** Python, Pygame Zero, Scratch
+- **Tecnologias:** Python, Pygame Zero
 - **Status:** Concluído
 
 ### 💣 [MineField](https://github.com/Gabbr1el/MineField)
